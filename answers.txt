@@ -3,4 +3,3 @@ What is a remote repository?
 It is a central online repository that is seen by the rest of your team. 
 You can push and pull (fetch + merge) from your local repository 
 to keep your local updated to the remote current version used by the team. 
-It has its own history separate from the local repository. 
